@@ -1,0 +1,24 @@
+path: datasets/sentinela
+train: images/train
+val: images/val
+test: images/test
+nc: 18
+names:
+  0: antelope
+  1: bat
+  2: bear
+  3: bee
+  4: bison
+  5: boar
+  6: cheetah
+  7: coyote
+  8: fox
+  9: hyena
+  10: leopard
+  11: lion
+  12: ox
+  13: porcupine
+  14: rhinoceros
+  15: snake
+  16: tiger
+  17: wolf
