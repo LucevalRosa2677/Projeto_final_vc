@@ -14,6 +14,9 @@ runs/
 *.onnx
 *.weights
 
+# Enunciado local
+*.pdf
+
 # Sistema
 Thumbs.db
 Desktop.ini
