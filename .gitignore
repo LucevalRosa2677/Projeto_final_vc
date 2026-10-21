@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset e pesos do modelo
+archive/
+archive.zip
+data/
+datasets/
+runs/
+*.pt
+*.onnx
+*.weights
+
+# Sistema
+Thumbs.db
+Desktop.ini
