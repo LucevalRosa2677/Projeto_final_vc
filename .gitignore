@@ -11,11 +11,9 @@ data/
 datasets/
 runs/
 *.pt
+!pesos/best.pt
 *.onnx
 *.weights
-
-# Enunciado local
-*.pdf
 
 # Sistema
 Thumbs.db
